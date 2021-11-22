@@ -1,9 +1,12 @@
+import json
 print('Hello World!')
 
-kaas = open('steam.json', 'r')
-
+kaas = open('steam.json')
+file = json.load(kaas)
 lines = kaas.readlines()
+iets = 0
 
-for i in lines:
-    print(i)
+for i in file:
+    iets += 1
 
+print(iets)
