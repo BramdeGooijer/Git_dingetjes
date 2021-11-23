@@ -11,4 +11,3 @@ for i in file:
 
 print(iets)
 
-print("hello world")
