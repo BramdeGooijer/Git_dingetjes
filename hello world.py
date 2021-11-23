@@ -12,5 +12,5 @@ for i in file:
 print(iets)
 halooo
 
-print('Nerds!')
+
 
