@@ -11,3 +11,5 @@ for i in file:
 
 print(iets)
 
+print('Nerds!')
+
