@@ -10,7 +10,6 @@ for i in file:
     iets += 1
 
 print(iets)
-halooo
 
 
 
